@@ -19,8 +19,17 @@ Exemplo: "Em um projeto que migra de uma arquitetura monolítica para microsserv
 
 Os autores apresentam um estudo de minenação de repositórios de software (MSR) para analisar o uso de ADRs em projetos open sources no GitHub. O objetivo é se e em que grau as ADRs são usadas na prática e obter insights sobre as práticas atuais de seu uso. Para isso, eles desevolvem critérios de busca pra identificar repositórios que utilizam ADRs, coletam dados de repositórios e analisam padrões quantitativos e qualitativos. Para atingir os objetivos de pesquisa, foi definido as seguintes perguntas:
 
-- Como a adoção de ADRs evoluiu ao longo do tempo?
-- Qual o estado da prática do uso de ADRs em repositórios de código aberto?
+1 - Como a adoção de ADRs evoluiu ao longo do tempo?
+  1.1 - Quantos repositórios do GitHub estão usando ADRs?
+  1.2 - Quando cada repositório começou a usar ADRs?
+  1.3 - Como o número de ADRs registradas evoluiu ao longo do tempo?
+
+2 - Qual o estado da prática do uso de ADRs em repositórios de código aberto?
+  2.1 - Quantas ADRs são registradas por repositório?
+  2.2 - Quantos usuários de um repositório estão contribuindo para as ADRs?
+  2.3 - As ADRs são mantidas ao longo do tempo?
+  2.4 - Em que período de tempo as ADRs são registradas?
+  2.5 - Quais modelos de ADRs são usados em repositórios de código aberto?
 
 ## Quais são os detalhes técnicos dessa solução? O que chama mais atenção? Qual a ideia geral e o que deve ser discutido em mais detalhes?
 
